@@ -1,1 +1,3 @@
 toneDiary
+*.ipynb
+__pycache__
